@@ -1,0 +1,40 @@
+# Wordlists
+wordlists/
+*.txt
+
+# Exploits/payloads
+exploits/
+payloads/
+*.bin
+
+# Captured data
+captures/
+*.pcap
+*.cap
+
+# Cracked hashes
+cracked/
+*.cracked
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code
+.claude/
+.claude.json
